@@ -1,0 +1,9 @@
+[submodule "WIMSFP-back"]
+	path = WIMSFP-back
+	url = https://github.com/Yarikbot34/WIMSFP-back.git
+[submodule "WIMSFP-front-warehouse"]
+	path = WIMSFP-front-warehouse
+	url = https://github.com/Vernicodov-team/WIMSFP-front-warehouse.git
+[submodule "WIMSFP-front-client"]
+	path = WIMSFP-front-client
+	url = https://github.com/Vernicodov-team/WIMSFP-front-client.git
